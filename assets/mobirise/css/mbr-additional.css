@@ -2123,7 +2123,7 @@ section.lazy-placeholder:after {
 }
 .cid-uBkx52tCgl .card-title,
 .cid-uBkx52tCgl .card-img {
-  color: #b69b74;
+  color: #cebfaf;
 }
 .cid-uBkx52tCgl .icon-wrap {
   padding-bottom: 7.6rem;
@@ -2158,8 +2158,9 @@ section.lazy-placeholder:after {
 .cid-rArXHg1PU8 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #211c1c;
+  background-color: #2a2525;
 }
 .cid-rArXHg1PU8 .media-container-row .mbr-text {
-  color: #b69b74;
+  color: #cebfaf;
+  text-align: center;
 }
